@@ -1,0 +1,15 @@
+/Users/theogoetz/Projects/Sets/Sets/bin/Debug/net7.0/Sets
+/Users/theogoetz/Projects/Sets/Sets/bin/Debug/net7.0/Sets.deps.json
+/Users/theogoetz/Projects/Sets/Sets/bin/Debug/net7.0/Sets.runtimeconfig.json
+/Users/theogoetz/Projects/Sets/Sets/bin/Debug/net7.0/Sets.dll
+/Users/theogoetz/Projects/Sets/Sets/bin/Debug/net7.0/Sets.pdb
+/Users/theogoetz/Projects/Sets/Sets/obj/Debug/net7.0/Sets.csproj.AssemblyReference.cache
+/Users/theogoetz/Projects/Sets/Sets/obj/Debug/net7.0/Sets.GeneratedMSBuildEditorConfig.editorconfig
+/Users/theogoetz/Projects/Sets/Sets/obj/Debug/net7.0/Sets.AssemblyInfoInputs.cache
+/Users/theogoetz/Projects/Sets/Sets/obj/Debug/net7.0/Sets.AssemblyInfo.cs
+/Users/theogoetz/Projects/Sets/Sets/obj/Debug/net7.0/Sets.csproj.CoreCompileInputs.cache
+/Users/theogoetz/Projects/Sets/Sets/obj/Debug/net7.0/Sets.dll
+/Users/theogoetz/Projects/Sets/Sets/obj/Debug/net7.0/refint/Sets.dll
+/Users/theogoetz/Projects/Sets/Sets/obj/Debug/net7.0/Sets.pdb
+/Users/theogoetz/Projects/Sets/Sets/obj/Debug/net7.0/Sets.genruntimeconfig.cache
+/Users/theogoetz/Projects/Sets/Sets/obj/Debug/net7.0/ref/Sets.dll
